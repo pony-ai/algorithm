@@ -5,8 +5,8 @@ class Solution{
 		if(!count($nums)) return [];
 		sort($nums);
 		$ret = [];
-		for($i = 0;$i<count($nums)-2;$++){
-			if($i>0&&)
+		for($i = 0;$i<count($nums)-2;$i++){
+			if($i>0);
 		}
 		print_r($nums);
 		return;
